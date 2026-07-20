@@ -1,0 +1,4 @@
+interface:
+  display_name: "电影画面分析器"
+  short_description: "逐镜分析景别、机位、构图、运镜、光影、色彩与人物场面调度"
+  default_prompt: "Use $analyze-cinematic-visuals to 分析这个视频的电影画面语言。"

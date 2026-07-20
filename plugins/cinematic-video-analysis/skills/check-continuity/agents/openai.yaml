@@ -1,0 +1,4 @@
+interface:
+  display_name: "连续性检查器"
+  short_description: "逐对检查人物、服装、道具、轴线、空间、光影与动作衔接连续性"
+  default_prompt: "Use $check-continuity to 检查这个视频相邻镜头的连续性。"

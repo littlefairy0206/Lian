@@ -1,0 +1,4 @@
+interface:
+  display_name: "镜头拆解器"
+  short_description: "自动检测视频切镜并生成精确时间码、关键帧、联系表与完整镜头清单"
+  default_prompt: "Use $analyze-shots to 拆解这个视频并输出带时间码的完整镜头表。"

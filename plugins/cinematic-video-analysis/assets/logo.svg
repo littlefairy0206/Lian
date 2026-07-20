@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" role="img" aria-label="电影视频分析">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#4c1d95"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="160" rx="32" fill="#171321"/>
+  <rect x="24" y="24" width="112" height="112" rx="24" fill="url(#g)"/>
+  <rect x="42" y="48" width="76" height="58" rx="7" fill="#171321" stroke="#fff" stroke-width="4"/>
+  <path d="M42 64h76M61 48v16M80 48v16M99 48v16" stroke="#fff" stroke-width="4"/>
+  <path d="M70 75v22l22-11z" fill="#fff"/>
+  <text x="166" y="73" fill="#fff" font-family="sans-serif" font-size="36" font-weight="700">电影视频分析</text>
+  <text x="166" y="112" fill="#c4b5fd" font-family="sans-serif" font-size="22">镜头拆解 · 画面语言 · 连续性检查</text>
+</svg>
