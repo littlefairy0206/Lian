@@ -1,0 +1,35 @@
+{
+  "name": "cinematic-video-analysis",
+  "version": "0.1.0",
+  "description": "Shot segmentation, cinematic visual analysis, and continuity checking for video.",
+  "author": {
+    "name": "连意鑫"
+  },
+  "homepage": "https://github.com/littlefairy0206/Lian",
+  "repository": "https://github.com/littlefairy0206/Lian",
+  "license": "MIT",
+  "keywords": [
+    "video-analysis",
+    "shot-list",
+    "cinematography",
+    "continuity",
+    "storyboard"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "电影视频分析",
+    "shortDescription": "镜头拆解、电影画面分析与连续性检查",
+    "longDescription": "从视频中检测镜头边界并提取关键帧，分析景别、机位、构图、运镜、光影和人物调度，同时检查人物、服装、道具、空间、视线与动作连续性。",
+    "developerName": "连意鑫",
+    "category": "Creative & Media",
+    "capabilities": ["Analyze", "Read", "Write"],
+    "defaultPrompt": [
+      "拆解这个视频，输出带时间码的完整镜头表。",
+      "分析这个视频的构图、机位、运镜、光影与人物调度。",
+      "检查相邻镜头的人物、服装、道具和动作连续性。"
+    ],
+    "brandColor": "#6D28D9",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/logo.svg"
+  }
+}
